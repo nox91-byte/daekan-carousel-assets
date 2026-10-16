@@ -1,0 +1,12 @@
+{
+  "title": "Video UGC Daekan MVP Plan B Kamu Apa",
+  "concept": "K1 - Plan B kamu apa? (teritori Plan B/MVP)",
+  "format": "reel 9:16, 1080x1920, 26 detik, h264+aac",
+  "channel": "instagram daekan.app",
+  "feature": "daekan_mvp",
+  "source": "pabrik video UGC avatar (Google Flow Omni Flash + Avatar Hafidh, Whisper, ffmpeg) + rekaman layar daekan.app/mvp (saldo di-blur)",
+  "data_source": "PHK 43.805 pekerja Jan-Jul 2026: Kemnaker via Katadata (24 Agu 2026)",
+  "ai_generated": true,
+  "buffer_post_id": null,
+  "posted_at": null
+}
