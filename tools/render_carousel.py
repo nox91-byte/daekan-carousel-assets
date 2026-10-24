@@ -34,7 +34,7 @@ from playwright.sync_api import sync_playwright
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOGO = os.path.join(REPO, "brand", "daekan-logo.png")
-CHROMIUM = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+CHROMIUM = "/opt/pw-browsers/chromium-1243/chrome-linux64/chrome"
 
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
