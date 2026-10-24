@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-24",
+  "slug": "notifikasi-pending-cari-kerja",
+  "persona": "job_seeker",
+  "type": "non_feature",
+  "feature": null,
+  "cta": "simpan_kirim_teman",
+  "hook_angle": "evergreen",
+  "photo_ids": [27178419, 6028547, 7552726, 19905182, 9050093],
+  "caption_hook": "Ngelamar kerja udah ratusan kali, tapi yang balas kebanyakan cuma notifikasi pending — kalau ini kerasa familiar, kamu nggak sendirian.",
+  "buffer_post_id": null
+}
