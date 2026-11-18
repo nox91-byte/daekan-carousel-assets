@@ -1,0 +1,13 @@
+{
+  "title": "Video Story Daekan Performance Report",
+  "date": "2026-11-18",
+  "slug": "performance-report-hitung-roas-tiap-malam",
+  "feature": "performance_report",
+  "story_angle": "Bayangin penjual produk digital yang tiap malam buka Meta Ads, catat Ad Spend, pindah ke spreadsheet lalu hitung ROI dan ROAS satu per satu sampai malas ngecek; titik balik: Performance Report Daekan, Ad Spend dari Meta Ads terupdate otomatis, ROI dan ROAS langsung tersaji, performa day by day terbaca penuh",
+  "hook": "Tiap malam hitung ROAS pakai kalkulator? Capek.",
+  "caption_hook": "Tiap malam hitung ROAS pakai kalkulator buat cek iklan produk digital kamu?",
+  "format": "reel 9:16",
+  "cover_ms": 2400,
+  "source": "pabrik video motion graphic (Gemini TTS Charon + Whisper + Hyperframes), mockup UI buatan sendiri, angka mockup berlabel angka ilustrasi",
+  "buffer_post_id": null
+}
