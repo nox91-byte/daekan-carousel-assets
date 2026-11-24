@@ -1,0 +1,63 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "LAGI RAMAI",
+   "headline": "KENAPA GAJI CEPAT HABIS DI *TANGGAL TUA*",
+   "art": {
+    "kind": "tiles",
+    "icons": [
+     "coin",
+     "clock",
+     "chart"
+    ],
+    "labels": [
+     "Gaji",
+     "Waktu",
+     "Sisa"
+    ]
+   }
+  },
+  {
+   "type": "note",
+   "headline": "Uang masuk tanggal 25. Tanggal 28 sudah *tipis*.",
+   "body": "Kamu nggak sendirian. Ini polanya."
+  },
+  {
+   "type": "stat",
+   "big": "70%",
+   "label": "HABIS DI AWAL",
+   "headline": "Pengeluaran numpuk di *minggu pertama*",
+   "body": "Cicilan, kos, dan langganan datang bareng."
+  },
+  {
+   "type": "grid",
+   "stamp": "SIMPAN",
+   "headline": "4 langkah *tahan sampai akhir bulan*",
+   "items": [
+    {
+     "icon": "coin",
+     "text": "Pisahkan tabungan di hari gajian"
+    },
+    {
+     "icon": "book",
+     "text": "Catat semua pengeluaran kecil"
+    },
+    {
+     "icon": "clock",
+     "text": "Tunda belanja impulsif 24 jam"
+    },
+    {
+     "icon": "check",
+     "text": "Cek sisa uang tiap minggu"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "headline": "Simpan ini biar *nggak ketinggalan*",
+   "body": "Biar kamu nggak ketinggalan bahasan seperti ini.",
+   "pill": "Simpan & follow @daekan.app"
+  }
+ ]
+}

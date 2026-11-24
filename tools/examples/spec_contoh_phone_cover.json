@@ -1,0 +1,92 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "LAGI RAME DI LINIMASA",
+   "headline": "GAME JAGA WARUNG INI BIKIN *ORANG BAPER*",
+   "art": {
+    "kind": "phone",
+    "title": "Hari ke-12",
+    "meta": "Rp 184rb",
+    "scene": "<path d='M12 30h360l-24 66H36z' fill='#E2600A'/><path d='M36 30h60l-8 66h-44zM156 30h60l-4 66h-52zM276 30h60l4 66h-52z' fill='#FFF1DC'/><rect x='24' y='30' width='336' height='210' rx='8' fill='#F4C27A' opacity='.0'/><rect x='44' y='110' width='296' height='130' fill='#C98A44'/><rect x='62' y='126' width='70' height='62' rx='6' fill='#17130F'/><rect x='72' y='136' width='50' height='42' rx='4' fill='#7BD3EA'/><rect x='152' y='126' width='170' height='16' rx='8' fill='#17130F' opacity='.8'/><rect x='152' y='154' width='120' height='16' rx='8' fill='#17130F' opacity='.5'/><rect x='44' y='198' width='296' height='42' fill='#8C5A26'/><circle cx='108' cy='180' r='22' fill='#F2B88A'/><rect x='86' y='200' width='44' height='40' rx='10' fill='#3B6FD6'/><rect x='24' y='260' width='336' height='96' rx='22' fill='#fff' stroke='#17130F' stroke-width='5'/><text x='48' y='300' font-family='Jakarta' font-weight='800' font-size='28' fill='#17130F'>“Ngutang dulu ya,</text><text x='48' y='336' font-family='Jakarta' font-weight='800' font-size='28' fill='#17130F'>Pak. Besok bayar.”</text><rect x='24' y='376' width='160' height='60' rx='30' fill='#17130F'/><text x='52' y='415' font-family='Jakarta' font-weight='800' font-size='24' fill='#fff'>Catat</text><rect x='200' y='376' width='160' height='60' rx='30' fill='#F97316'/><text x='220' y='415' font-family='Jakarta' font-weight='800' font-size='24' fill='#fff'>Tolak</text>"
+   }
+  },
+  {
+   "type": "note",
+   "headline": "Namanya *Warung Life Simulator*.",
+   "body": "Kamu jadi Pak Misran, bapak yang jagain warung di Cianjur."
+  },
+  {
+   "type": "note",
+   "headline": "Anaknya lagi kuliah. Warungnya *harus tetap buka*.",
+   "body": "Dan di situ orang-orang mulai baper."
+  },
+  {
+   "type": "ui",
+   "headline": "Hari-harinya *ya begini*",
+   "card_title": "Buku Pak Misran",
+   "card_meta": "Hari ke-12",
+   "rows": [
+    {
+     "icon": "book",
+     "title": "Ngutang kopi & rokok",
+     "sub": "Langganan minta dicatat dulu",
+     "tag": "Belum bayar",
+     "tone": "warn"
+    },
+    {
+     "icon": "wave",
+     "title": "Kios kebanjiran",
+     "sub": "Stok mi instan ikut basah",
+     "tag": "Rugi",
+     "tone": "bad"
+    },
+    {
+     "icon": "qr",
+     "title": "Sewa dibayar lewat QRIS",
+     "sub": "Tagihan bulan ini",
+     "tag": "Jatuh tempo",
+     "tone": "warn"
+    }
+   ],
+   "caption": "Ilustrasi mekanik game, bukan tangkapan layar"
+  },
+  {
+   "type": "stat",
+   "big": "3",
+   "label": "PELAJARAN",
+   "headline": "Dari warung Pak Misran, bisa kamu bawa ke usahamu"
+  },
+  {
+   "type": "grid",
+   "stamp": "SIMPAN",
+   "headline": "3 pelajaran *dari Pak Misran*",
+   "items": [
+    {
+     "icon": "book",
+     "text": "Catat utang pelanggan dengan rapi"
+    },
+    {
+     "icon": "coin",
+     "text": "Sisihkan dana darurat buat sewa"
+    },
+    {
+     "icon": "store",
+     "text": "Upgrade toko pelan-pelan"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "headline": "Warung kecil, tapi *ngajarin hal besar*.",
+   "body": "Jualan itu bukan cuma soal untung. Soal bertahan.",
+   "doodle": "spark"
+  },
+  {
+   "type": "cta",
+   "headline": "Simpan ini biar *nggak ketinggalan*",
+   "body": "Kami bahas topik yang lagi ramai dan kaitannya dengan usaha kecil.",
+   "pill": "Simpan & follow @daekan.app"
+  }
+ ]
+}
