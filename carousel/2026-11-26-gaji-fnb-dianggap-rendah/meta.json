@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-26",
+  "slug": "gaji-fnb-dianggap-rendah",
+  "type": "follow_save",
+  "feature": null,
+  "cta": "simpan_follow_daekan_app",
+  "hook_angle": "threads_trending",
+  "threads_topic": "Debat gaji kerja FnB dianggap nggak sebanding sama capeknya",
+  "threads_signal": "9+ akun berbeda ikut berdebat dalam window ~6 jam terakhir, konsisten satu topik yang sama soal kesenjangan upah FnB vs beban kerja",
+  "design": "v2",
+  "art": "tiles",
+  "slide_types": ["cover", "note", "ui", "note", "note", "stat", "grid", "cta"],
+  "photo_ids": [],
+  "caption_hook": "Threads lagi ribut soal gaji kerja FnB yang dianggap nggak sebanding sama capeknya kerja.",
+  "repliz_schedule_id": null
+}
