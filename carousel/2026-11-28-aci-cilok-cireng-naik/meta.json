@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-28",
+  "slug": "aci-cilok-cireng-naik",
+  "type": "follow_save",
+  "feature": null,
+  "cta": "simpan_follow_daekan_app",
+  "hook_angle": "threads_trending",
+  "threads_topic": "Harga tepung aci (bahan cilok/cireng) melonjak, dikeluhkan pedagang kaki lima",
+  "threads_signal": "Muncul konsisten di beberapa query pencarian berbeda dalam 72 jam terakhir, dengan beberapa akun berbeda ikut mengeluhkan topik yang sama soal lonjakan harga bahan baku jajanan kaki lima",
+  "design": "v2",
+  "art": "phone",
+  "slide_types": ["cover", "note", "stat", "note", "ui", "note", "grid", "cta"],
+  "photo_ids": [],
+  "caption_hook": "Harga cilok, cireng, sampai kerupuk belakangan ikut naik — ternyata ini biang keroknya.",
+  "repliz_schedule_id": null
+}
