@@ -1,0 +1,92 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "LAGI RAME DIOMONGIN",
+   "headline": "Kenapa harga cilok dan cireng *diam-diam naik*?",
+   "art": {
+    "kind": "phone",
+    "title": "Kios Cilok",
+    "meta": "Aci Naik",
+    "scene": "<rect x='0' y='470' width='384' height='90' fill='#F4C27A'/><circle cx='130' cy='460' r='26' fill='#17130F'/><circle cx='250' cy='460' r='26' fill='#17130F'/><circle cx='130' cy='460' r='8' fill='#FFF1DC'/><circle cx='250' cy='460' r='8' fill='#FFF1DC'/><rect x='70' y='300' width='240' height='160' rx='14' fill='#E2600A'/><rect x='55' y='270' width='270' height='32' rx='6' fill='#17130F'/><rect x='110' y='320' width='110' height='90' rx='10' fill='#FFF1DC'/><circle cx='135' cy='365' r='10' fill='#C98A44'/><circle cx='160' cy='365' r='10' fill='#C98A44'/><circle cx='185' cy='365' r='10' fill='#C98A44'/><circle cx='148' cy='388' r='10' fill='#C98A44'/><circle cx='173' cy='388' r='10' fill='#C98A44'/><rect x='235' y='230' width='10' height='70' fill='#8C5A26'/><rect x='170' y='170' width='170' height='56' rx='10' fill='#17130F'/><text x='255' y='205' text-anchor='middle' font-family='Jakarta' font-weight='800' font-size='22' fill='#fff'>KIOS JAJAN</text><path d='M30 40h160a20 20 0 0 1 20 20v70a20 20 0 0 1-20 20H90l-25 24 5-24H30a20 20 0 0 1-20-20V60a20 20 0 0 1 20-20z' fill='#fff' stroke='#17130F' stroke-width='5'/><text x='50' y='85' font-family='Jakarta' font-weight='800' font-size='30' fill='#17130F'>ACI NAIK</text><text x='50' y='120' font-family='Jakarta' font-weight='800' font-size='30' fill='#F97316'>LAGI?!</text><rect x='40' y='500' width='140' height='50' rx='25' fill='#17130F'/><text x='110' y='532' text-anchor='middle' font-family='Jakarta' font-weight='800' font-size='20' fill='#fff'>Naik Harga</text><rect x='204' y='500' width='140' height='50' rx='25' fill='#F97316'/><text x='274' y='532' text-anchor='middle' font-family='Jakarta' font-weight='800' font-size='20' fill='#fff'>Tahan Dulu</text>"
+   }
+  },
+  {
+   "type": "note",
+   "headline": "Ini bukan cuma perasaan kamu doang.",
+   "body": "Tukang cilok, cireng, sampai kerupuk langganan kamu emang lagi pusing beneran."
+  },
+  {
+   "type": "stat",
+   "big": "80%",
+   "label": "LEBIH MAHAL",
+   "headline": "Harga tepung aci naik segini *cuma dalam 2 bulan*",
+   "body": "Dari sekitar Rp10 ribu, sekarang tembus Rp18-19 ribu per kilogram, kata pedagang di Surabaya."
+  },
+  {
+   "type": "note",
+   "headline": "Penyebabnya: kemarau panjang bikin panen singkong *ambruk*.",
+   "body": "Singkong itu bahan dasar tepung aci. Pemerintah pun menahan impor biar harga di petani lokal tetap terjaga."
+  },
+  {
+   "type": "ui",
+   "headline": "Pedagang kecil jadi yang paling *kena getahnya*.",
+   "card_title": "Pilihan Serba Salah",
+   "card_meta": "Tiap Hari",
+   "rows": [
+    {
+     "icon": "coin",
+     "title": "Naikkan sedikit harga jual",
+     "sub": "Takut pembeli kabur duluan",
+     "tag": "Was-was",
+     "tone": "warn"
+    },
+    {
+     "icon": "tag",
+     "title": "Perkecil porsi dagangan",
+     "sub": "Harga sama, isi menyusut",
+     "tag": "Disiasati",
+     "tone": "warn"
+    },
+    {
+     "icon": "clock",
+     "title": "Tahan dengan untung tipis",
+     "sub": "Margin makin lama makin pas-pasan",
+     "tag": "Bertahan",
+     "tone": "bad"
+    }
+   ],
+   "caption": "Ilustrasi dilema pedagang kecil secara umum, bukan toko tertentu."
+  },
+  {
+   "type": "note",
+   "headline": "Dan ternyata ini kejadian *di mana-mana*.",
+   "body": "Dari pedagang di Jawa sampai Sumatera, ceritanya sama: bahan baku aci melonjak, untung menipis, pembeli berkurang."
+  },
+  {
+   "type": "grid",
+   "stamp": "SIMPAN",
+   "headline": "3 hal penting soal *drama aci* ini",
+   "items": [
+    {
+     "icon": "chart",
+     "text": "Pemicunya kemarau, bukan rumor pasar"
+    },
+    {
+     "icon": "coin",
+     "text": "Sejumlah kota lapor naik sampai 80%"
+    },
+    {
+     "icon": "clock",
+     "text": "Panen baru balik normal awal tahun depan"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "headline": "Simpan dulu biar kamu nggak kelewatan bahasan kayak gini",
+   "body": "Biar kamu nggak ketinggalan kalau ada topik seru kayak gini lagi.",
+   "pill": "Simpan & follow @daekan.app"
+  }
+ ]
+}
